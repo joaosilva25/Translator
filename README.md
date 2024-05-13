@@ -1,5 +1,5 @@
-<h1>Translator</h1>h1>
-Este é um projeto de tradutor desenvolvido utilizando JavaScript, HTML, CSS e Bootstrap juntamente com uma API externa.
+<h1>Translator</h1>
+<p>Este é um projeto de tradutor desenvolvido utilizando JavaScript, HTML, CSS e Bootstrap juntamente com uma API externa.</p>
 
 https://joaosilva25.github.io/Translator/
 
@@ -11,6 +11,14 @@ https://joaosilva25.github.io/Translator/
 ![translator pic 3](https://github.com/joaosilva25/Translator/assets/117541067/f4f7b00e-6844-4012-a277-5ef093140e5f)
 ![translator pic 5](https://github.com/joaosilva25/Translator/assets/117541067/5597e24d-5915-47e0-8e62-ab166afaf2f0)
 ![translator pic 4](https://github.com/joaosilva25/Translator/assets/117541067/999b45fc-f9c6-4130-93b5-4e6ab25dfef5)
+
+
+<h1>Tecnologias utilizadas</h1>
+<p>JAVASCRIPT</p>
+<p>API</p>
+<p>HTML/CSS</p>
+<p>BOOTSTRAP</p>
+
 
 <h1>AUTOR</h1>
 <p>João Vitor da Silva Pinto</p>
